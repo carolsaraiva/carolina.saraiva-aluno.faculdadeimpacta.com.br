@@ -1,0 +1,10 @@
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\bin\Debug\calculadoraEMSystem.exe.config
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\bin\Debug\calculadoraEMSystem.exe
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\bin\Debug\calculadoraEMSystem.pdb
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.csprojAssemblyReference.cache
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.Form1.resources
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.Properties.Resources.resources
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.csproj.GenerateResource.cache
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.csproj.CoreCompileInputs.cache
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.exe
+C:\Users\krols\source\repos\calculadoraEMSystem\calculadoraEMSystem\obj\Debug\calculadoraEMSystem.pdb
